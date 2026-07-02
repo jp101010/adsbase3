@@ -1,0 +1,47 @@
+{
+  "enabled": true,
+  "refresh_hours": 6,
+  "label": "Sponsored",
+  "brand": "CrystalClear Partner",
+  "headline": "Earn more downloads",
+  "subheadline": "Open the sponsor page for 20 seconds to add an extra download.",
+  "cta": "EARN DOWNLOAD",
+  "fine_print": "Free users can stack earned credits",
+  "banner_728x90": {
+    "enabled": true,
+    "key": "1f613ca2de3b014ec84b0f70c6a63402",
+    "format": "iframe",
+    "width": 728,
+    "height": 90,
+    "params": {},
+    "script_url": "https://www.highperformanceformat.com/1f613ca2de3b014ec84b0f70c6a63402/invoke.js",
+    "click_url": "https://www.highperformanceformat.com/1f613ca2de3b014ec84b0f70c6a63402/invoke.js",
+    "html": "<script>atOptions={'key':'1f613ca2de3b014ec84b0f70c6a63402','format':'iframe','height':90,'width':728,'params':{}};</script><script src='https://www.highperformanceformat.com/1f613ca2de3b014ec84b0f70c6a63402/invoke.js'></script>"
+  },
+  "banner_slots": [
+    {
+      "id": "bottom",
+      "enabled": true,
+      "width": 728,
+      "height": 90,
+      "script_url": "https://www.highperformanceformat.com/1f613ca2de3b014ec84b0f70c6a63402/invoke.js",
+      "click_url": "https://www.highperformanceformat.com/1f613ca2de3b014ec84b0f70c6a63402/invoke.js"
+    },
+    {
+      "id": "download_queue",
+      "enabled": true,
+      "width": 728,
+      "height": 90,
+      "script_url": "https://www.highperformanceformat.com/1f613ca2de3b014ec84b0f70c6a63402/invoke.js",
+      "click_url": "https://www.highperformanceformat.com/1f613ca2de3b014ec84b0f70c6a63402/invoke.js"
+    }
+  ],
+  "earn_download": {
+    "enabled": true,
+    "url": "https://www.effectivecpmnetwork.com/w54ue9qudd?key=b45a9599e81858828c9f8f9e08ce5b17",
+    "seconds_required": 20,
+    "credit_amount": 1,
+    "can_stack": true,
+    "note": "Open this Smartlink in the browser and keep it open for 20 seconds to earn one extra download start."
+  }
+}
